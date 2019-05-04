@@ -1,3 +1,9 @@
+***Deprecated and archived***
+
+*We no longer use this, and it is no longer actively maintained.*
+
+---
+
 Dockerfile for ubuntudesign/python-base
 ===
 
